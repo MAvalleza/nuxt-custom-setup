@@ -1,4 +1,4 @@
-# web-nuxt-template
+# nuxt-custom-setup
 
 > Customized fresh setup for nuxt websites
 
