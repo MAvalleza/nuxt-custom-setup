@@ -1,4 +1,14 @@
 <template lang="pug">
   v-container
-    | This is a fresh setup
+    //- TODO: Remove this
+    sample
 </template>
+
+<script>
+import Sample from '~/components/sample';
+export default {
+  components: {
+    Sample,
+  },
+};
+</script>
